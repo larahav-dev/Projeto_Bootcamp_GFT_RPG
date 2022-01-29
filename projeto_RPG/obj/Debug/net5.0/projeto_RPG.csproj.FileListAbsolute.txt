@@ -1,0 +1,16 @@
+C:\Users\Larah\Desktop\projetos\projeto_RPG\bin\Debug\net5.0\projeto_RPG.exe
+C:\Users\Larah\Desktop\projetos\projeto_RPG\bin\Debug\net5.0\projeto_RPG.deps.json
+C:\Users\Larah\Desktop\projetos\projeto_RPG\bin\Debug\net5.0\projeto_RPG.runtimeconfig.json
+C:\Users\Larah\Desktop\projetos\projeto_RPG\bin\Debug\net5.0\projeto_RPG.runtimeconfig.dev.json
+C:\Users\Larah\Desktop\projetos\projeto_RPG\bin\Debug\net5.0\projeto_RPG.dll
+C:\Users\Larah\Desktop\projetos\projeto_RPG\bin\Debug\net5.0\ref\projeto_RPG.dll
+C:\Users\Larah\Desktop\projetos\projeto_RPG\bin\Debug\net5.0\projeto_RPG.pdb
+C:\Users\Larah\Desktop\projetos\projeto_RPG\obj\Debug\net5.0\projeto_RPG.csproj.AssemblyReference.cache
+C:\Users\Larah\Desktop\projetos\projeto_RPG\obj\Debug\net5.0\projeto_RPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Larah\Desktop\projetos\projeto_RPG\obj\Debug\net5.0\projeto_RPG.AssemblyInfoInputs.cache
+C:\Users\Larah\Desktop\projetos\projeto_RPG\obj\Debug\net5.0\projeto_RPG.AssemblyInfo.cs
+C:\Users\Larah\Desktop\projetos\projeto_RPG\obj\Debug\net5.0\projeto_RPG.csproj.CoreCompileInputs.cache
+C:\Users\Larah\Desktop\projetos\projeto_RPG\obj\Debug\net5.0\projeto_RPG.dll
+C:\Users\Larah\Desktop\projetos\projeto_RPG\obj\Debug\net5.0\ref\projeto_RPG.dll
+C:\Users\Larah\Desktop\projetos\projeto_RPG\obj\Debug\net5.0\projeto_RPG.pdb
+C:\Users\Larah\Desktop\projetos\projeto_RPG\obj\Debug\net5.0\projeto_RPG.genruntimeconfig.cache
